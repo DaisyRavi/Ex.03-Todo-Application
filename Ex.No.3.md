@@ -108,7 +108,8 @@ export default App;
 ```
 
 ## OUTPUT
-![alt text](<exp-3/my-todo-app/src/img/Screenshot 2025-04-30 113008.png>)
-![alt text](<exp-3/my-todo-app/src/img/Screenshot 2025-04-30 113027.png>)
+![Screenshot 2025-04-30 113008](https://github.com/user-attachments/assets/9b8a049f-e217-4478-97fe-9dacc79aa2f3)
+![Screenshot 2025-04-30 113027](https://github.com/user-attachments/assets/b5a017d5-826c-4653-bc7b-3fbd8cbd5d6f)
+
 ## RESULT
 The program for creating To-do list using JavaScript is executed successfully.
